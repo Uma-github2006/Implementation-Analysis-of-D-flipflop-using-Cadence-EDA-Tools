@@ -1,4 +1,4 @@
-# Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
+![Screenshot (347)](https://github.com/user-attachments/assets/f79c38ae-dd06-4f79-9332-e2d6f10b1160)# Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
 
 ## Aim
 The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
@@ -44,21 +44,18 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
 
 ### 2. Schematic of D Flip-Flop
-![Screenshot 2025-03-08 112009](https://github.com/user-attachments/assets/8efca33d-4b20-46de-bf28-e0cbf3bd1a6c)
+![Screenshot (346)](https://github.com/user-attachments/assets/daffa4e7-efb3-439f-9cec-27d61b19b47d)
 
 
 ### 3. Transient Response Setup
-
-![image](https://github.com/user-attachments/assets/a1b87a68-274c-45f4-8262-036a6c11c4d8)
-
-![image](https://github.com/user-attachments/assets/12a4c141-c3f6-4efd-a66f-a89c70848bcd)
-
+![Screenshot (347)](https://github.com/user-attachments/assets/efe0f4f0-13e4-4d94-b8b7-598d66a1ba2f)
 
 
 ## Output
 
 ### 1. Transient Analysis Output
-![Screenshot 2025-03-08 112821](https://github.com/user-attachments/assets/4ff6da47-7de7-480d-a90e-ebb0b66e2053)
+![Screenshot (344)](https://github.com/user-attachments/assets/033eab40-3fc4-4fae-b2d3-98b4de9f7d36)
+
 
 
 ## Results
